@@ -15,7 +15,7 @@ public class RefereeAspect {
     @After("updatePointcut(row, col)")
     public void evaluateGameStatus(JoinPoint joinPoint, int row, int col ) {
     	
-        System.out.println("Referee Checking Results");
+        System.out.println("Referee Aspect Checking Results");
         TicTacToeGame game = (TicTacToeGame) joinPoint.getTarget();
         game.getBoardUI().enableButtons();
 
