@@ -2,7 +2,6 @@
 
 This repository contains the source code for a two-player Tic Tac Toe program as part of AOP Project 
 
-Link to Instructions:
 [AOP Project 1 Instructions](https://github.com/DSappington/TicTacToe/blob/main/5%20AOP%20Project%2011.pdf)
 
 
