@@ -26,7 +26,7 @@ The referee feature will be implemented using an Aspect.
 
 Before running this application, ensure that you have the following prerequisites installed on your system:
 
-- Java SE Development Kit (JDK) 17 or a compatible version.
+- Java SE Development Kit (JDK) 17.
 - AspectJ runtime libraries.
 
 
