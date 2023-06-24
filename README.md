@@ -1,6 +1,10 @@
-# TicTacToe
+# TicTacToe 
 
-This repository contains the source code for a two-player Tic Tac Toe program as part of AOP Project .
+This repository contains the source code for a two-player Tic Tac Toe program as part of AOP Project 
+
+Link to Instructions:
+[AOP Project 1 Instructions](https://github.com/DSappington/TicTacToe/blob/main/5%20AOP%20Project%2011.pdf)
+
 
 ## Description
 
@@ -18,7 +22,6 @@ The program offers two modes of play:
 
 The referee feature will be implemented using an Aspect.
 
-[AOP Project 1 Instructions](https://github.com/DSappington/TicTacToe/blob/main/5%20AOP%20Project%2011.pdf)
 
 ## Prerequisites
 
